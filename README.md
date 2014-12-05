@@ -1,4 +1,4 @@
 imgsearch
 =========
 
-Jmecherie bug
+WorkCloud(Cosmin) - Proiect pentru detectarea de imagini 
